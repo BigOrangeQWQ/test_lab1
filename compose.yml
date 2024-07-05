@@ -1,0 +1,9 @@
+services:
+  test:
+    build: 
+      context: .
+    environment:
+      - PROJECT_LINK=nonebot_plugin_acm_reminder
+      - MODULE_NAME=nonebot_plugin_acm_reminder
+      - GITHUB_OUTPUT=GITHUB_OUTPUT
+      - GITHUB_STEP_SUMMARY=GITHUB_STEP_SUMMARY
