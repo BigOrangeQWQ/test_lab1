@@ -79,3 +79,17 @@ Undefined variable
 ## 灵感来源
 
 - 游戏 A=B
+
+## 知识清单
+
+- Python
+    - 流程控制语句
+        - if/else
+        - for
+        - while
+    - 数据结构
+        - dict
+        - list
+        - string
+    - 内置函数
+        - in
